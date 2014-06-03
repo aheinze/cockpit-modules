@@ -2,6 +2,13 @@
     "schema_version": "1.0",
 
     "packages": [
-        
+        {
+            "name"       : "Twig",
+            "version"    : "0.1",
+            "description": "Use cockpit functions in twig templates",
+            "homepage"   : "https://github.com/davidgenetic/cockpit-twig",
+            "repo"       : "https://github.com/davidgenetic/cockpit-twig",
+            "license"    : "MIT"
+        }
     ]
 }
