@@ -5,6 +5,7 @@
         {
             "name"       : "Twig",
             "version"    : "0.1",
+            "author"     : "David De Coninck",
             "description": "Use cockpit functions in twig templates",
             "homepage"   : "https://github.com/davidgenetic/cockpit-twig",
             "repo"       : "https://github.com/davidgenetic/cockpit-twig",
