@@ -10,6 +10,15 @@
             "homepage"   : "https://github.com/davidgenetic/cockpit-twig",
             "repo"       : "https://github.com/davidgenetic/cockpit-twig",
             "license"    : "MIT"
+        },
+        {
+            "name"       : "Spreadsheet import module",
+            "version"    : "1.0.0-rc.1",
+            "author"     : "Piotr Konieczny",
+            "description": "Module for importing spreadsheet as collection entries",
+            "homepage"   : "https://github.com/piotr-cz/cockpit-import",
+            "repo"       : "https://github.com/piotr-cz/cockpit-import",
+            "license"    : "MIT"
         }
     ]
 }
